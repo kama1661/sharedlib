@@ -1,3 +1,3 @@
-def call('ename') {
+def call(ename) {
   echo "hai ${ename} , Hor r u?? "
 }
